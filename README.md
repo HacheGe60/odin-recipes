@@ -2,4 +2,5 @@
 
 First project from The Odin Project.
 
-This project is designed to practice, first, HTML then CSS. 
+This project is designed to practice, first, HTML then CSS.
+[EOF]
